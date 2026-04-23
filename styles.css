@@ -1,0 +1,65 @@
+.container {
+     background-color:rgb(42, 42, 42);
+     padding: 10px;
+     margin: 50px;
+     border-radius: 20px;
+     color: white;
+     font-family: monospace;
+}
+
+h1 {
+     text-align: center;
+     padding-top: 20px;
+     color:rgb(253, 185, 97) !important;
+     margin-bottom: 15px !important;
+}
+
+#degree {
+     text-align: center;
+     width: 300px;
+}
+
+#checkBtn {
+     padding-bottom: 10px;
+     text-align: center;
+}
+
+#note {
+     margin-left: 30px;
+}
+
+#cInput {
+     text-align: center;
+}
+
+#cels {
+     margin-bottom: 15px;
+}
+
+#degree {
+     text-align: center;
+     margin-bottom: 20px;
+}
+
+#hInput {
+     text-align: center;
+}
+
+#hum {
+     margin-bottom: 15px;
+}
+
+#humidity {
+     text-align: center;
+     margin-bottom: 20px;
+     width: 300px;
+}
+
+#instructions {
+     width: 300px;
+}
+
+#instructionsBtn {
+     text-align: center;
+     margin-bottom: 10px;
+}
